@@ -7,6 +7,7 @@ import java.util.Date;
 public class Main {
 	
 	public static void main(String[] args) {
+		
 		SearchDomain m = new MazeDomain(6,6);
 		m.print();
 		
