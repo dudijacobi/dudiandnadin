@@ -1,5 +1,7 @@
 package view;
 
+import hagana.view.GameBoard;
+
 import java.util.Observable;
 
 import model.algorithms.Solution;
